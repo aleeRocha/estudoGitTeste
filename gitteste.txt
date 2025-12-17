@@ -5,7 +5,4 @@ c
 d
 e
 f
-
-Enviando
-a funcionalidade
-X
+enviando funcionalidade b
